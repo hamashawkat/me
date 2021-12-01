@@ -5,6 +5,8 @@
 * License: https://bootstrapmade.com/license/
 */
 
+
+
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -198,7 +200,9 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/b4.JPG") top center;
+  
+  background: url("../img/b7.JPG") top center;
+  
   background-size: cover;
 }
 #hero:before {
@@ -925,6 +929,13 @@ section {
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
+#qa input {
+
+  border-radius: 20px;
+}
+#but button{
+  border-radius: 20px;
+}
 #footer {
   padding: 15px;
   color: #f4f6fd;
@@ -952,3 +963,5 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
